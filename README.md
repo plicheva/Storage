@@ -1,6 +1,6 @@
 Azure Summary — Terraform Workflow for Taskboard Storage
 
-- This repo needs to be executed before Taskboard repo
+- This repo needs to be executed before Taskboard repository
 
 This GitHub Actions workflow automates the provisioning of Azure infrastructure required to store the Terraform state file for the Taskboard repository.
 
